@@ -9,7 +9,7 @@ redirect_from:
    
 My name is Chang Zhu. I'm a Ph.D. student at Arizona State University doing research at the [SEFCOM Lab](https://sefcom.asu.edu/) under the supervision of [Dr. Adam Doupé](https://adamdoupe.com/) and [Dr. Yan Shoshitaishvili](https://yancomm.net/). My research interests mainly lies in the field of machine learning and analyzing security issues in a wide range of topics.
 
-My resume is available [here](https://mbitaab.github.io/files/Chang_Resume.pdf).
+My resume is available [here](https://ChangZhu1997.github.io/files/Chang_Resume.pdf).
 
 ## Education
 * Ph.D. in Computer Science, Arizona State University, 2026 (expected)
