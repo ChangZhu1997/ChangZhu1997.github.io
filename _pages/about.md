@@ -22,5 +22,5 @@ In Proceedings of the 44th IEEE Symposium on Security and Privacy (S&P), San Fra
 Erik Trickel, Fabio Pagani, **Chang Zhu**, Lukas Dresel, Giovanni Vigna, Christopher Kruegel, Ruoyu Wang, Tiffany Bao, Yan
 Shoshitaishvili, Adam Doupé
 
-Download paper [here](https://ieeexplore.ieee.org/abstract/document/10179317)
+[Paper](https://ieeexplore.ieee.org/abstract/document/10179317)
 
