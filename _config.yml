@@ -8,8 +8,6 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Chang Zhu"
-
-title_separator          : "-"
 name                     : &name "Chang Zhu"
 description              : &description "PhD Student at ASU"
 url                      : https://changzhu1997.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
