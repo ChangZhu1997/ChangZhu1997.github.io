@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chang Zhu"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Chang Zhu"
 description              : &description "PhD Student at ASU"
