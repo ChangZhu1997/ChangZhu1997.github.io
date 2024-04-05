@@ -17,6 +17,7 @@ My resume is available [here](https://ChangZhu1997.github.io/files/Chang_Resume.
 
 ## Publications
 **Toss a fault to your witcher: Applying grey-box coverage-guided mutational fuzzing to detect sql and command injection vulnerabilities**
+
 In Proceedings of the 44th IEEE Symposium on Security and Privacy (S&P), San Francisco, CA, May 22‑25, 2023.
 Erik Trickel, Fabio Pagani, **Chang Zhu**, Lukas Dresel, Giovanni Vigna, Christopher Kruegel, Ruoyu Wang, Tiffany Bao, Yan
 Shoshitaishvili, Adam Doupé
