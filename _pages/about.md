@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
    
-My name is Chang Zhu. I'm a Ph.D. student at Arizona State University doing research at the [SEFCOM Lab](https://sefcom.asu.edu/) under the supervision of [Dr. Adam Doupé](https://adamdoupe.com/) and [Dr. Yan Shoshitaishvili](https://yancomm.net/). My research interests mainly lies in the field of machine learning and analyzing security issues in a wide range of topics.
+I'm a Chang Zhu - a third Ph.D. student at Arizona State University. I currently work at the [SEFCOM Lab](https://sefcom.asu.edu/) under the supervision of [Dr. Ruoyu(Fish) Wang](https://rev.fish/), [Dr. Yan Shoshitaishvili](https://yancomm.net/), [Dr. Adam Doupé](https://adamdoupe.com/) and [Dr. Tiffany Bao](https://www.tiffanybao.com/). My research interests mainly lies in the field of reverse engineering, machine learning and analyzing security issues in a wide range of topics. I also have a background on intrusion detection for Linux(Linux audit log analysis).
 
 My resume is available [here](https://ChangZhu1997.github.io/files/Chang_Resume.pdf).
 
