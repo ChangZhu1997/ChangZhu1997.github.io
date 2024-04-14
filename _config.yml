@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chang Zhu"
 title_separator          : "-"
-name                     : &name "Chang Zhua"
+name                     : &name "Chang Zhu"
 description              : &description "PhD Student at ASU"
 url                      : https://changzhu1997.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chang Zhu"
+  name             : "Chang Zhu 祝暢"
   avatar           : "changzhu.jpg"
   bio              : "PhD Student at ASU"
   location         : "Tempe - AZ"
