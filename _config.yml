@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chang Zhu"
+title                    : "Chang Zhu 祝暢"
 title_separator          : "-"
 name                     : &name "Chang Zhu"
 description              : &description "PhD Student at ASU"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "祝暢"
+  name             : 
   avatar           : "changzhu.jpg"
   bio              : "PhD Student at ASU"
   location         : "Tempe - AZ"
