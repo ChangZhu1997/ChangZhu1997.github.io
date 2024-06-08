@@ -25,7 +25,7 @@ Shoshitaishvili, Adam Doupé
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10179317)
 
 **TYGR: Type Inference on Stripped Binaries using Graph Neural Networks** \
-Proceedings of the 33th USENIX Security Symposium, Philadelphia, USA August 2024.
+Proceedings of the 33th USENIX Security Symposium, Philadelphia, USA August 2024. \
 **Chang Zhu\***, Ziyang Li*, Anton Xue, Ati Priya Bajaj, William Gibbs, Yibo Liu, Hanjun Dai, Mayur Naik, Rajeev Alur, Tiffany Bao, Adam Doupé, Yan Shoshitaishvili, Ruoyu Wang, Aravind Machiry
-* equal contribution
+\* equal contribution
 
