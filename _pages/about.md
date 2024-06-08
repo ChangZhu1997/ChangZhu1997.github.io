@@ -20,12 +20,12 @@ My CV can be found [here](https://changzhu1997.github.io/files/Chang_CV.pdf).
 ## Publications
 **Toss a fault to your witcher: Applying grey-box coverage-guided mutational fuzzing to detect sql and command injection vulnerabilities** \
 Proceedings of the 44th IEEE Symposium on Security and Privacy (S&P), San Francisco, CA, May 22‑25, 2023.\
-Erik Trickel, Fabio Pagani, **Chang Zhu**, Lukas Dresel, Giovanni Vigna, Christopher Kruegel, Ruoyu Wang, Tiffany Bao, Yan
+Erik Trickel, Fabio Pagani, *Chang Zhu*, Lukas Dresel, Giovanni Vigna, Christopher Kruegel, Ruoyu Wang, Tiffany Bao, Yan
 Shoshitaishvili, Adam Doupé
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10179317)
 
 **TYGR: Type Inference on Stripped Binaries using Graph Neural Networks** \
 Proceedings of the 33th USENIX Security Symposium, Philadelphia, PA, August 14-16, 2024.\
-**Chang Zhu\***, Ziyang Li*, Anton Xue, Ati Priya Bajaj, William Gibbs, Yibo Liu, Hanjun Dai, Mayur Naik, Rajeev Alur, Tiffany Bao, Adam Doupé, Yan Shoshitaishvili, Ruoyu Wang, Aravind Machiry \
+*Chang Zhu\**, Ziyang Li*, Anton Xue, Ati Priya Bajaj, William Gibbs, Yibo Liu, Hanjun Dai, Mayur Naik, Rajeev Alur, Tiffany Bao, Adam Doupé, Yan Shoshitaishvili, Ruoyu Wang, Aravind Machiry \
 \* equal contribution
 
