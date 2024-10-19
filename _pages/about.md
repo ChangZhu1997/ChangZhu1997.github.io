@@ -29,3 +29,8 @@ Proceedings of the 44th IEEE Symposium on Security and Privacy (S&P), San Franci
 Proceedings of the 33th USENIX Security Symposium, Philadelphia, PA, August 14-16, 2024.\
 \* equal contribution \
 [[Paper]](https://www.usenix.org/system/files/usenixsecurity24-zhu-chang.pdf)
+
+* **Fuzz to the Future: Uncovering Occluded Future Vulnerabilities via Robust Fuzzing** \
+Arvind S Raj, Wil Gibbs, Fangzhou Dong, Jayakrishna Menon Vadayath, Michael Tompkins, Steven Wirsz, Yibo Liu, Zhenghao Hu, **Chang Zhu**, Gokul Krishna, Brendan Dolan-Gavitt, Adam Doupé, Yan Shoshitaishvili, Ruoyu Wang, Tiffany Bao\
+Proceedings of the 30th ACM Conference on Computer and Communications Security, Salt Lake City, USA, October 14-18, 2024.\
+[[Paper]](https://yancomm.net/papers/2024%20-%20CCS%20-%20FlakJack.pdf)
